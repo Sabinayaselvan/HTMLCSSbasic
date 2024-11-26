@@ -86,6 +86,7 @@ border: none;
 .cj:hover{
     opacity: 0.8;
     transition: 0.5s;
+    cursor: pointer;
 }
 .ck{
     font-size: 35px;
@@ -134,6 +135,7 @@ border: none;
 .cn:hover{
     opacity:0.8;
     transition: 0.1s;
+    cursor: pointer;
 }
 .co{
     background-color:rgb(249, 244, 244);
@@ -148,6 +150,7 @@ border: none;
 }
 .co:hover{
     opacity:0.8;
+    cursor: pointer;
 }
 .xa{
     background-color:yellow;
@@ -202,6 +205,7 @@ button{
 .sas:hover{
     opacity:0.7;
     transition:opacity 0.5s;
+    cursor: pointer;
 
 }
 .sab{
@@ -219,6 +223,7 @@ button{
 .sab:hover{
     background-color:rgb(239, 223, 6); 
     transition:opacity 0.5s;
+    cursor: pointer;
 }
 .sac{
     background-color:rgb(8, 209, 108);
@@ -233,6 +238,7 @@ button{
 }
 .sac:hover{
     box-shadow: 5px 5px rgb(230, 227, 227);
+    cursor: pointer;
     
 }
 .sad{
@@ -249,6 +255,7 @@ button{
 .sad:hover{
     opacity:0.7;
     transition:0.5s;
+    cursor: pointer;
 
 }
 
@@ -270,6 +277,7 @@ button{
     background-color: grey;
     color:white;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 
